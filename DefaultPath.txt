@@ -1,0 +1,14 @@
+SPM
+C:\!_models\spm-model-corner-wardrobe\
+SPB
+C:\!_models\spm-model-corner-wardrobe\
+SYS
+C:\spm\model\stdPS\;C:\SPM\sys\;C:\SPM\sys\контур\
+TAB
+C:\spm\tab\
+ERR
+C:\spm\ERR\
+GIN
+C:\spm\gin\
+MFC
+C:\!_data\privateShkaf\
